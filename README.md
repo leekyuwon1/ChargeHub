@@ -4,14 +4,20 @@
 <br>
 
 ### MainLogin View
-
 <br>
 <img width="300" height"300" src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/372dd0d5-2d06-4a57-9c0a-66171af7f2fa">
+<br>
+<br>
 
+---
+<br>
+<br>
 <layout oriental="horizental">
-  <strong>Login View</strong>                     <strong>UnLogin View</strong>
+  <strong>Login View</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>UnLogin View</strong>
+  
   <br>
- <img width="300" height"300" src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/dda5a9a8-59c2-4f3c-b8c7-563b402f1be9">
+ <img width="300" height"300" src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/dda5a9a8-59c2-4f3c-b8c7-563b402f1be9">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img width="300" height"300" src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/8466aa70-5df5-4ac9-8f16-d707351df909">
   <br>
+  
 </layout>
