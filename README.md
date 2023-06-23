@@ -1,5 +1,5 @@
 # PROJECT NAME :  <img width="70" height="90" src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/567e290c-d005-4ffe-8391-fd53dd79b08e"> PlugHub
-* <strong>전기차의 높은 보급률에 발맞춰 전기차 충전소를 찾는 앱이 구현되었습니다.</strong>
+* <a> 전기차의 높은 보급률에 발맞춰 전기차 충전소를 찾는 앱이 구현되었습니다.</a>
 <br>
 <br>
 
@@ -48,5 +48,12 @@
 <br>
 <img width="600" height="500"src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/4896db53-74ba-4a8a-ab3c-01f4b7b713f7">
 
+---
 
+### 추후 일정
+<br>
 
+<strong>_UnSing View_</strong>
+* 마커 이미지 변동
+* 마커 클릭 시, 안되는 버그들 개선
+* x, y 중복된 사항 개선
