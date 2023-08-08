@@ -4,8 +4,10 @@
 <br>
 
 ## View
-<img width="300" height="300" src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/19907df9-7ffa-45b1-9c08-6adbaa1f7928"
+<img width="300" height="300" src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/e3716d68-7525-482c-b010-ee395cfb2e32">
+
 <br>
+
 <br>
  <strong>Login View</strong>
 
