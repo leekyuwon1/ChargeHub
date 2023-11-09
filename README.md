@@ -1,6 +1,7 @@
 
 # PROJECT NAME :  <img width="70" height="90" src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/567e290c-d005-4ffe-8391-fd53dd79b08e"> PlugHub
-* <a> 전기차의 높은 보급률에 발맞춰 전기차 충전소를 찾는 앱이 구현되었습니다.</a>
+__<a> 전기차의 높은 보급률에 발맞춰 전기차 충전소를 찾는 앱이 구현되었습니다.</a>__
+
 <br>
 <br>
 
