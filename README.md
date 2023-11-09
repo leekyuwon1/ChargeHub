@@ -1,3 +1,5 @@
+
+https://github.com/leekyuwon1/ChargeHub/assets/128021520/3971502b-09c2-42b4-a71a-6bcb77b44dc1
 # PROJECT NAME :  <img width="70" height="90" src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/567e290c-d005-4ffe-8391-fd53dd79b08e"> PlugHub
 * <a> 전기차의 높은 보급률에 발맞춰 전기차 충전소를 찾는 앱이 구현되었습니다.</a>
 <br>
@@ -12,6 +14,12 @@
 
 <br>
 <img width="300" height"300" src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/372dd0d5-2d06-4a57-9c0a-66171af7f2fa">
+<img width="50" height"50" src="Uploading mobizen_20230808_160703.mp4…">
+
+
+
+
+
 <br>
 
 <br>
