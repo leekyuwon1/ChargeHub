@@ -30,12 +30,7 @@ __<a> 전기차의 높은 보급률에 발맞춰 전기차 충전소를 찾는 �
 </layout>
 
  ---
-<strong> ___VIDEO___ </strong>
 
- <br>
-  <img width="300" height"300" src="https://github.com/leekyuwon1/ChargeHub/assets/128021520/3971502b-09c2-42b4-a71a-6bcb77b44dc1">
- 
----
 
 ### Sing View & UnSing View - _difference_
 <br>
